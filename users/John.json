@@ -1,0 +1,12 @@
+{
+	"Name": "John",
+	"Age": 30,
+	"Contact": "",
+	"Company": "TechCorp",
+	"Address": {
+		"City": "New York",
+		"State": "NY",
+		"Country": "USA",
+		"PinCode": 10001
+	}
+}

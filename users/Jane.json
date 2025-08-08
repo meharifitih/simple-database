@@ -1,0 +1,12 @@
+{
+	"Name": "Jane",
+	"Age": 25,
+	"Contact": "",
+	"Company": "InnovateX",
+	"Address": {
+		"City": "Los Angeles",
+		"State": "CA",
+		"Country": "USA",
+		"PinCode": 90001
+	}
+}

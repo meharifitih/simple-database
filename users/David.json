@@ -1,0 +1,12 @@
+{
+	"Name": "David",
+	"Age": 32,
+	"Contact": "",
+	"Company": "AI Innovations",
+	"Address": {
+		"City": "San Diego",
+		"State": "CA",
+		"Country": "USA",
+		"PinCode": 92101
+	}
+}

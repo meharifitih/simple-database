@@ -1,0 +1,12 @@
+{
+	"Name": "Bob",
+	"Age": 35,
+	"Contact": "",
+	"Company": "DataSystems",
+	"Address": {
+		"City": "Houston",
+		"State": "TX",
+		"Country": "USA",
+		"PinCode": 77001
+	}
+}

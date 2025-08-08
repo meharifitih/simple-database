@@ -1,0 +1,12 @@
+{
+	"Name": "Charlie",
+	"Age": 40,
+	"Contact": "",
+	"Company": "CloudTech",
+	"Address": {
+		"City": "Phoenix",
+		"State": "AZ",
+		"Country": "USA",
+		"PinCode": 85001
+	}
+}

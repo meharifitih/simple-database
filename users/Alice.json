@@ -1,0 +1,12 @@
+{
+	"Name": "Alice",
+	"Age": 28,
+	"Contact": "",
+	"Company": "WebSolutions",
+	"Address": {
+		"City": "Chicago",
+		"State": "IL",
+		"Country": "USA",
+		"PinCode": 60601
+	}
+}
